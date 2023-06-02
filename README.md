@@ -2,5 +2,5 @@
 
 # Camila Guerrero
 # Brisa Guimaraz
-# Roberto Zalazar
+# Roberto Zalazar  ciudad salta, edad 40 
 # Patricio Frascaroli
